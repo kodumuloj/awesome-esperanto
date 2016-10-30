@@ -9,5 +9,8 @@
 ## Libroj
 
 ## Vortaroj
+* [Plena Ilustrita Vortaro de Esperanto](http://vortaro.net)
 * [Reta Vortaro](http://www.reta-vortaro.de/revo/)
 * [La Simpla Vortaro de Esperanto](http://www.simplavortaro.org)
+* [Komputeko](http://komputeko.net)
+* [Tuja Vortaro](http://www.tujavortaro.net)
