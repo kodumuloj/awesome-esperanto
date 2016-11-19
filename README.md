@@ -14,3 +14,6 @@
 * [La Simpla Vortaro de Esperanto](http://www.simplavortaro.org)
 * [Komputeko](http://komputeko.net)
 * [Tuja Vortaro](http://www.tujavortaro.net)
+
+## Gazetoj
+* [Penseo](http://www.elerno.cn/penseo/penlisto.htm)
