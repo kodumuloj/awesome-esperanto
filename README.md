@@ -10,6 +10,7 @@
 + [Gitbook-iga Libroj](https://github.com/kodumuloj/awesome-esperanto/blob/master/Libroj.md)
 + [La Esperanta Librejo](http://eduinf.waw.pl/esp/lern/librejo/)
 + [Claude Piron](http://claudepiron.free.fr/index.htm)
++ [E-Libroj de elerno.cn](http://www.elerno.cn/elibro/elibroj.htm)
 
 ## Vortaroj
 * [Plena Ilustrita Vortaro de Esperanto](http://vortaro.net)
