@@ -7,11 +7,9 @@
 ---
 
 ## Libroj
-+ [La Verda Koro](https://kodumuloj.github.io/La-Verda-Koro/)
-+ [1984](https://kodumuloj.github.io/1984/)
-+ [Dankon Amiko](https://kodumuloj.github.io/Dankon-Amiko/)
-+ [Facila Spiro](https://kodumuloj.github.io/Facila-spiro/)
-+ [La Aventuroj de Alicio en Mirlando](https://kodumuloj.github.io/La-Aventuroj-de-Alicio-en-Mirlando)
++ [Gitbook-iga Libroj](https://github.com/kodumuloj/awesome-esperanto/blob/master/Libroj.md)
++ [La Esperanta Librejo](http://eduinf.waw.pl/esp/lern/librejo/)
++ [Claude Piron](http://claudepiron.free.fr/index.htm)
 
 ## Vortaroj
 * [Plena Ilustrita Vortaro de Esperanto](http://vortaro.net)
