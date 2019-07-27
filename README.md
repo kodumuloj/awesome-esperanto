@@ -24,7 +24,7 @@
 + [Cantr](https://cantr.net/eo/), teksta MMORPG
 + [Minecraft](http://https://esperamondo.net/)
 + [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)
-+ Vortludo [iOS](https://apps.apple.com/us/app/vortludo/id1456349708)[Android](https://play.google.com/store/apps/details?id=com.krifle.vortludo)
++ Vortludo [iOS](https://apps.apple.com/us/app/vortludo/id1456349708) [Android](https://play.google.com/store/apps/details?id=com.krifle.vortludo)
 
 
 ## Gazetoj
