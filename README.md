@@ -23,6 +23,7 @@
 + 1255 Burgomaster [fontokodo](https://github.com/Areso/1255-burgomaster) [ludi ludon](http://cosmodream.ga/1255-burgomaster/) [ludi ludon (spegulo)](https://areso.github.io/1255-burgomaster/)
 + [Cantr](https://cantr.net/eo/), teksta MMORPG
 + [Minecraft](http://https://esperamondo.net/)
++ Shattered Pixel Dungeon [fontokodo](https://github.com/00-Evan/shattered-pixel-dungeon) [Android](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) 
 + [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/)
 + Vortludo [iOS](https://apps.apple.com/us/app/vortludo/id1456349708) [Android](https://play.google.com/store/apps/details?id=com.krifle.vortludo)
 
